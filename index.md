@@ -1,7 +1,7 @@
 ## Adeoye Malumi
+Hello, I am Adeoye Malumi an aspiring Earth Data Scientist.
 
-I am a Bsc Student Majoring in 
-
-
-*Github
-*linked
+#### Contact Information
+* [Email](adeoyeayan@gmail.com)
+* [Github](https://github.com/oye-bobs)
+* [Linkedin](https://www.linkedin.com/in/adeoyemalumi/)
