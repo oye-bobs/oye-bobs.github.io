@@ -107,6 +107,6 @@ Gaining Hand-on experience in Machine learning and Artificial Intelligence
 
 ##  Contact
 
-For more inquiries, reach out to me on:
+For more information or inquiries, reach out to me on:
 [Linkedin](https://www.linkedin.com/in/adeoyemalumi/) 
 [Website](https://adeoyemalumi.netlify.app/)
