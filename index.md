@@ -23,8 +23,8 @@ For me, choosing Earth Data Science wasn't just about a job. It felt like follow
 
 As I keep exploring this field, I see how it can help us build a safer and healthier planet for everyone. It's exciting to think about how Earth Data Science can shape our future for the better.
 
-
 Come join me in discovering new ideas that help our planet and communities thrive. Here, we'll mix old-fashioned earth science know-how with the latest technology to make things better for everyone.
+
 ---
 
 ## Projects
