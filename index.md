@@ -30,23 +30,22 @@ Come join me in discovering new ideas that help our planet and communities thriv
 
 ## Projects
 Prior to immersing myself in Earth Data Science, I undertook several projects focusing on data analysis.
-### Check out some of them here:
-* [**Data Cleaning in SQL**](https://nquarder.github.io/notebooks/wausau-precip.html)
+# Check out some of them here:
+---
+* [**Data Cleaning in SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
 <img style="float: right;" src="/Images/housingIMG.jpg" height="50%">
-
-* [**COVID 19 Data Exploration SQL**](https://nquarder.github.io/notebooks/08-iowa-flood.html)
+---
+* [**COVID 19 Data Exploration SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
 <img style="float: right;" src="/Images/covid.jpg" height="50%">
-
-* [**TABLEAU PROJECTS**](https://nquarder.github.io/notebooks/arctic-temp-april.html)
+---
+* [**TABLEAU PROJECTS**](https://public.tableau.com/app/profile/adeoye.malumi)
 <img style="float: right;" src="/Images/tableau.jpg" height="50%">
-
+---
 * [**POWER BI PROJECTS**](https://github.com/nquarder/nquarder.github.io/blob/main/notebooks/cr-derecho.ipynb)
 <img style="float: right;" src="/Images/powerbi.jpg" height="50%">
-
+---
 * [**EXCEL PROJECTS**](https://github.com/nquarder/nquarder.github.io/blob/main/notebooks/newbold-ndvi.ipynb)
 <img style="float: right;" src="/Images/excel.jpg" height="50%">
-
-
 ---
 
 ## Education
