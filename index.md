@@ -104,5 +104,5 @@ Gaining Hand-on experience in Machine learning and Artificial Intelligence
 ##  Contact
 
 For collaborations or inquiries, please reach out:
-**LinkedIn**: ![adeoyemalumi](https://www.linkedin.com/in/adeoyemalumi/) 
-**Website**: ![adeoyemalumi](https://adeoyemalumi.netlify.app/)
+**LinkedIn**: ![](https://www.linkedin.com/in/adeoyemalumi/) 
+**Website**: ![](https://adeoyemalumi.netlify.app/)
