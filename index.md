@@ -30,6 +30,21 @@ Come join me in discovering new ideas that help our planet and communities thriv
 
 ## Projects
 Prior to immersing myself in Earth Data Science, I undertook several projects focusing on data analysis.
+### Check out some of them here:
+* [**Data Cleaning in SQL**](https://nquarder.github.io/notebooks/wausau-precip.html)
+<img style="float: right;" src="/img/wausau-precip.png" height="50%">
+
+* [**COVID 19 Data Exploration SQL**](https://nquarder.github.io/notebooks/08-iowa-flood.html)
+<img style="float: right;" src="/img/ia-river-discharge.png" height="50%">
+
+* [**TABLEAU PROJECTS**](https://nquarder.github.io/notebooks/arctic-temp-april.html)
+<img style="float: right;" src="/img/arctic-temperature-anomaly.png" height="50%">
+
+* [**POWER BI PROJECTS**](https://github.com/nquarder/nquarder.github.io/blob/main/notebooks/cr-derecho.ipynb)
+<img style="float: right;" src="/img/cr-derecho.png" height="50%">
+
+* [**EXCEL PROJECTS**](https://github.com/nquarder/nquarder.github.io/blob/main/notebooks/newbold-ndvi.ipynb)
+<img style="float: right;" src="/img/newbold-ndvi.png" height="50%">
 
 
 ---
