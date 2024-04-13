@@ -105,5 +105,9 @@ Gaining Hand-on experience in Machine learning and Artificial Intelligence
 ##  Contact
 
 For more information or inquiries, reach out to me on:
-[Linkedin](https://www.linkedin.com/in/adeoyemalumi/) 
-[Website](https://adeoyemalumi.netlify.app/)
+* Email: <a href="mailto:adeoyeayan@gmail.com">Adeoye's email</a>
+* <a href="https://www.linkedin.com/in/adeoyemalumi/">LinkedIn</a>
+* GitHub: [@oye-bobs](https://github.com/oye-bobs)
+* ORCiD: [0009-0002-8223-7011](https://orcid.org/0009-0002-8223-7011)
+* <a href="https://adeoyemalumi.netlify.app/">Website</a>
+
