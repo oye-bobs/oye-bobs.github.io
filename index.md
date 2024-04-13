@@ -2,6 +2,10 @@
 
 
 ## Welcome
+
+<!-- HTML -->
+<img src="FB_IMG_1707875043997.jpg" alt="Profile Photo" style="width:500px;height:600px;">
+
 Hello there! I'm Adeoye Malumi, and I am a data analyst.
 
 I've always had a knack for working with numbers, collecting data, and finding trends and patterns that others miss.
