@@ -31,22 +31,30 @@ Come join me in discovering new ideas that help our planet and communities thriv
 ## Projects
 Prior to immersing myself in Earth Data Science, I undertook several projects focusing on data analysis.
 # Check out some of them here:
----
-[**Data Cleaning in SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
+
+-[**Data Cleaning in SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
 <img style="float: right;" src="/Images/housingIMG.jpg" height="50%">
----
-[**COVID 19 Data Exploration SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
+
+
+
+-[**COVID 19 Data Exploration SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
 <img style="float: right;" src="/Images/covid.jpg" height="50%">
----
-[**TABLEAU PROJECTS**](https://public.tableau.com/app/profile/adeoye.malumi)
+
+
+
+-[**TABLEAU PROJECTS**](https://public.tableau.com/app/profile/adeoye.malumi)
 <img style="float: right;" src="/Images/tableau.jpg" height="50%">
----
-[**POWER BI PROJECTS**](https://github.com/oye-bobs/PowerBI-Projects)
+
+-[**POWER BI PROJECTS**](https://github.com/oye-bobs/PowerBI-Projects)
 <img style="float: right;" src="/Images/powerbi.jpg" height="50%">
+
+
+
+-[**EXCEL PROJECTS**](https://github.com/oye-bobs/ExcelProjects)
+<img style="float: right;" src="/Images/excel.jpg" height="30%">
+
 ---
-[**EXCEL PROJECTS**](https://github.com/oye-bobs/ExcelProjects)
-<img style="float: right;" src="/Images/excel.jpg" height="50%">
----
+
 
 ## Education
 
