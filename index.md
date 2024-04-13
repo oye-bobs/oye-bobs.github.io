@@ -13,7 +13,7 @@ I've always had a knack for working with numbers, collecting data, and finding t
 This interest led me to begin my journey as a data analyst. It all started from working on a secondary school project with microsoft excel while I was about 13 years old, to joining a data science bootcamp many years later.
 
 For me, being a data analyst is a bit like being a detective. Its a game of tracking the clues within the numbers to find the culprit,catching the culprit and telling detailed stories on how and why the culprit is guilty.
-Data Analysis for me has always being more like a game,and this has always being very rewarding and exhilarating for me.
+Data Analysis for me has always being more like a game,and this has always been very rewarding and exhilarating for me.
 
 ## My Journey to Earth Data Science: Connecting Passion with Purpose
 
@@ -107,6 +107,6 @@ Gaining Hand-on experience in Machine learning and Artificial Intelligence
 
 ##  Contact
 
-For collaborations or inquiries, please reach out:
-**LinkedIn**: ![](https://www.linkedin.com/in/adeoyemalumi/) 
-**Website**: ![](https://adeoyemalumi.netlify.app/)
+For more inquiries, reach out to me on:
+[Linkedin](https://www.linkedin.com/in/adeoyemalumi/) 
+[Website](https://adeoyemalumi.netlify.app/)
