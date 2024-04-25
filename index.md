@@ -39,22 +39,22 @@ Check out some of them here:
 
 
 *[**COVID 19 Data Exploration SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
-<img style="float: right;" src="/Images/covid.jpg" height="50%">
+<img style="float: right;" src="/Images/covid.jpg" height="50%" width="50%">
 
 
 
 *[**TABLEAU PROJECTS**](https://public.tableau.com/app/profile/adeoye.malumi)
-<img style="float: right;" src="/Images/tableau.jpg" height="50%">
+<img style="float: right;" src="/Images/tableau.jpg" height="50%" width="50%">
 
 
 
 *[**POWER BI PROJECTS**](https://github.com/oye-bobs/PowerBI-Projects)
-<img style="float: right;" src="/Images/powerbi.jpg" height="50%">
+<img style="float: right;" src="/Images/powerbi.jpg" height="50%" width="50%">
 
 
 
 *[**EXCEL PROJECTS**](https://github.com/oye-bobs/ExcelProjects)
-<img style="float: right;" src="/Images/excel.jpg" height="30%">
+<img style="float: right;" src="/Images/excel.jpg" height="50%" width="50%">
 
 
 
@@ -64,7 +64,7 @@ Check out some of them here:
 
 **Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course**
 
-- [Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](html/new_notebook_for_reproducible_science(1).html) 
+- [Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](html/murtala_time_series.html) 
 - [Project 2: Accessing MODIS Spatial Data and Analyzing Drought Conditions - Link to appear soon] 📡
 
 
