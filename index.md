@@ -60,6 +60,13 @@ Check out some of them here:
 
 ---
 
+## 📚 Additional Projects
+
+**Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course**
+
+- 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](md/madison_timeseries.md) 📡
+- 🌍[Project 2: Accessing MODIS Spatial Data and Analyzing Drought Conditions - Link to appear soon] 📡
+
 
 ## Education
 
