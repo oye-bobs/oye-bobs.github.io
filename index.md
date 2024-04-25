@@ -60,12 +60,12 @@ Check out some of them here:
 
 ---
 
-## 📚 Additional Projects
+## Additional Projects
 
 **Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course**
 
-- 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](html/getting_started_with_open_reproducible_science.html) 📡
-- 🌍[Project 2: Accessing MODIS Spatial Data and Analyzing Drought Conditions - Link to appear soon] 📡
+- [Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](html/new_notebook_for_reproducible_science(1).html) 
+- [Project 2: Accessing MODIS Spatial Data and Analyzing Drought Conditions - Link to appear soon] 📡
 
 
 ## Education
