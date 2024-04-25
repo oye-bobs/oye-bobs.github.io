@@ -35,7 +35,7 @@ Check out some of them here:
 
 ## SQL
 
-[**Data Cleaning in SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
+[Data Cleaning in SQL](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
 
 ![Housing Data Cleaning Project](/Images/housingIMG.jpg)
 
@@ -43,7 +43,7 @@ Check out some of them here:
 
 
 
-[**COVID 19 Data Exploration SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
+[COVID 19 Data Exploration SQL](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
 
 ![COVID 19 Data Exploration](/Images/covid.jpg)
 
@@ -51,7 +51,7 @@ Check out some of them here:
 
 ## TABLEAU 
 
-[**TABLEAU PROJECTS**](https://public.tableau.com/app/profile/adeoye.malumi)
+[TABLEAU PROJECTS](https://public.tableau.com/app/profile/adeoye.malumi)
 
 ![Tableau Projects](/Images/tableau.jpg)
 
@@ -59,7 +59,7 @@ Check out some of them here:
 
 ## POWER BI 
 
-[**POWER BI PROJECTS**](https://github.com/oye-bobs/PowerBI-Projects)
+[POWER BI PROJECTS](https://github.com/oye-bobs/PowerBI-Projects)
 
 ![Power BI Projects](/Images/powerbi.jpg)
 
@@ -67,7 +67,7 @@ Check out some of them here:
 
 ## MICROSOFT EXCEL 
 
-[**EXCEL PROJECTS**](https://github.com/oye-bobs/ExcelProjects)
+[EXCEL PROJECTS](https://github.com/oye-bobs/ExcelProjects)
 
 ![Excel Projects](/Images/excel.jpg)
 
