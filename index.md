@@ -33,28 +33,44 @@ Prior to immersing myself in Earth Data Science, I undertook several projects fo
 
 Check out some of them here:
 
-*[**Data Cleaning in SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
-<img src="/Images/housingIMG.jpg" height="50%" width="50%">
+## Data Cleaning in SQL
 
+[**Data Cleaning in SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
 
+![Housing Data Cleaning Project](/Images/housingIMG.jpg)
 
-*[**COVID 19 Data Exploration SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
-<img src="/Images/covid.jpg" height="50%" width="50%">
+---
 
+## COVID 19 Data Exploration SQL
 
+[**COVID 19 Data Exploration SQL**](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
 
-*[**TABLEAU PROJECTS**](https://public.tableau.com/app/profile/adeoye.malumi)
-<img src="/Images/tableau.jpg" height="50%" width="50%">
+![COVID 19 Data Exploration](/Images/covid.jpg)
 
+---
 
+## TABLEAU PROJECTS
 
-*[**POWER BI PROJECTS**](https://github.com/oye-bobs/PowerBI-Projects)
-<img src="/Images/powerbi.jpg" height="50%" width="50%">
+[**TABLEAU PROJECTS**](https://public.tableau.com/app/profile/adeoye.malumi)
 
+![Tableau Projects](/Images/tableau.jpg)
 
+---
 
-*[**EXCEL PROJECTS**](https://github.com/oye-bobs/ExcelProjects)
-<img src="/Images/excel.jpg" height="50%" width="50%">
+## POWER BI PROJECTS
+
+[**POWER BI PROJECTS**](https://github.com/oye-bobs/PowerBI-Projects)
+
+![Power BI Projects](/Images/powerbi.jpg)
+
+---
+
+## EXCEL PROJECTS
+
+[**EXCEL PROJECTS**](https://github.com/oye-bobs/ExcelProjects)
+
+![Excel Projects](/Images/excel.jpg)
+
 
 
 
