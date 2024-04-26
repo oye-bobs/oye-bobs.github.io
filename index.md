@@ -80,7 +80,7 @@ Check out some of them here:
 
 **Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course**
 
-- [Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](html/mmia2.html)
+- [Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](html/murtala_time_series_2.html)
 
   
   Location Used : Murtala Mohammed Airport, Lagos, Nigeria
