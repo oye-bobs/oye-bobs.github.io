@@ -2983,7 +2983,8 @@ with open(notebook_path, "w", encoding="utf-8") as f:
 
         ^^^^^^^^^^^^^^^^^^^^^^^^^
       File "/opt/conda/share/jupyter/nbconvert/templates/lab/base.html.j2", line 3, in top-level template code
-        {% from 'cell_id_anchor.j2' import cell_id_anchor %}
+        {% include 'cell_id_anchor.j2' %}
+
         ^^^^^^^^^^^^^^^^^^^^^^^^^
       File "/opt/conda/share/jupyter/nbconvert/templates/base/display_priority.j2", line 1, in top-level template code
         {%- extends 'base/null.j2' -%}
