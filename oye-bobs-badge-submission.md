@@ -6,4 +6,4 @@ Portfolio pages:
 - [Adeoye's Home Towns Pull Request](https://github.com/cu-esiil-edu/hometowns/pull/6)
 - [Adeoye's Github portfolio page](https://oye-bobs.github.io/)
 - [Adeoye's Climate notebook](https://oye-bobs.github.io/notebooks/murtala_time_series_2.html)
-- [Adeoye's Vegetation notebook](https://oye-bobs.github.io/notebooks/vegetation(1).md)
+- [Adeoye's Vegetation notebook](https://oye-bobs.github.io/notebooks/vegetation.md)
