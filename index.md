@@ -93,7 +93,17 @@ Check out some of them here:
 
 
   
-- [Project 2: Accessing MODIS Spatial Data and Analyzing Drought Conditions - Link to appear soon] 📡
+- [Project 2: Accessing MODIS Spatial Data and Analyzing Fire In Gwagwalada, Abuja, Nigeria.](html/Abuja.html)
+
+
+
+  Location Used : Gwagwalada, Abuja, Nigeria.
+
+
+
+  <embed type="text/html" src="html/mmia.html" width="600" height="600">
+
+  
 
 
 ## Education
