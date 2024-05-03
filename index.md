@@ -101,10 +101,12 @@ Check out some of them here:
 
 
 
+  ![Gwagwalada NDVI](/Images/gwagwalada.png)
+
 
 
   
-
+---
 
 ## Education
 
