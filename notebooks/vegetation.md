@@ -2979,7 +2979,8 @@ with open(notebook_path, "w", encoding="utf-8") as f:
       File "/opt/conda/lib/python3.11/site-packages/jinja2/environment.py", line 936, in handle_exception
         raise rewrite_traceback_stack(source=source)
       File "/opt/conda/share/jupyter/nbconvert/templates/lab/index.html.j2", line 4, in top-level template code
-        {% from 'jupyter_widgets.html.j2' import jupyter_widgets %}
+        {% include 'jupyter_widgets.html.j2' %}
+
         ^^^^^^^^^^^^^^^^^^^^^^^^^
       File "/opt/conda/share/jupyter/nbconvert/templates/lab/base.html.j2", line 3, in top-level template code
         {% from 'cell_id_anchor.j2' import cell_id_anchor %}
