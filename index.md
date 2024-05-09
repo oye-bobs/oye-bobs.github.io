@@ -93,7 +93,7 @@ Check out some of them here:
 
 
   
-- [Project 2: Accessing MODIS Spatial Data and Analyzing Fire In Gwagwalada, Abuja, Nigeria.](notebooks/vegetation.html)
+- [Project 2: Accessing MODIS Spatial Data and Analyzing Fire In Gwagwalada, Abuja, Nigeria.](notebooks/gwagwalada.html)
 
 
 
