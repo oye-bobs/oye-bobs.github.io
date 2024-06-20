@@ -105,6 +105,14 @@ Check out some of them here:
 
 
 
+  -[Project 3: A short module teaching University of Benin Students about Open Reproducible Science](https://github.com/UnibenEarthDataScience/UniBenOpenSciEd)
+
+
+
+  ![Uniben OpenScience](/Images/Open Science.jpg)
+
+
+
   
 ---
 
