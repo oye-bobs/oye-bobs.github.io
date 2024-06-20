@@ -109,7 +109,7 @@ Check out some of them here:
 
 
 
-  ![Uniben OpenScience](/Images/Open Science.jpg)
+  ![Uniben OpenScience](/Images/OpenScience.png)
 
 
 
