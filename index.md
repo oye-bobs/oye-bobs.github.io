@@ -1,10 +1,12 @@
-<style>
-  img {
-    width: 600px;
-    height: 400px;
-  }
-</style>
-
+<head>
+  <style>
+    img {
+      width: 100%;
+      max-width: 600px;  /* Keeps the image size no larger than 600px */
+      height: auto;      /* Adjusts the height to maintain the aspect ratio */
+    }
+  </style>
+</head>
 
 # Adeoye's Earth Data Science Journey.
 
