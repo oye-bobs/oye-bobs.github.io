@@ -113,7 +113,20 @@ Check out some of them here:
 
   ![Uniben OpenScience](/Images/OpenScience.png)
 
+---
 
+## Workshops and Short Courses
+Driven by my passion for self-improvement and personal growth, I have actively engaged in numerous self-directed courses, some of which include : 
+
+[ESIIL Data Short Course 2024 (Certificate)]()
+
+![ESIIL Logo]()
+  
+---
+
+[Earthscope Seismology Skill Building Workshop 2024 (Certificate)]()
+
+![Earthscope Logo]()
 
   
 ---
