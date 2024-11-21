@@ -118,15 +118,20 @@ Check out some of them here:
 ## Workshops and Short Courses
 Driven by my passion for self-improvement and personal growth, I have actively engaged in numerous self-directed courses, some of which include : 
 
-[ESIIL Data Short Course 2024 (Certificate)]()
+[ESIIL Data Short Course 2024 (Certificate)](https://drive.google.com/file/d/1zy4CSyRhq4x8nsI-mao5iHlQyDrY3bv5/view?usp=drive_link)
 
-![ESIIL Logo]()
+![ESIIL Logo](/Images/ESIIL_logo.png)
   
 ---
 
-[Earthscope Seismology Skill Building Workshop 2024 (Certificate)]()
+[Earthscope Seismology Skill Building Workshop 2024 (Certificate)](https://drive.google.com/file/d/1y1epoSUvPsZVPWegYT9kHHvn565vPw1-/view?usp=drive_link)
 
-![Earthscope Logo]()
+![Earthscope Logo](/Images/Earthscope_logo.jpeg)
+
+  
+---
+[Earthquake Locate Certificate](https://drive.google.com/file/d/18HFY7pwP1dqGIdoktrULJ5dyVJdZq6f2/view?usp=drive_link)
+
 
   
 ---
