@@ -1,3 +1,11 @@
+<style>
+  img {
+    width: 600px;
+    height: 400px;
+  }
+</style>
+
+
 # Adeoye's Earth Data Science Journey.
 
 
