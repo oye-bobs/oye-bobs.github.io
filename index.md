@@ -28,12 +28,12 @@ Come join me in discovering new ideas that help our planet and communities thriv
 
 ---
 
-## Projects
+## Data Analysis and Exploration Projects
 Prior to immersing myself in Earth Data Science, I undertook several projects focusing on data analysis.
 
 Check out some of them here:
 
-## SQL
+### SQL
 
 [Data Cleaning in SQL](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
 
@@ -41,15 +41,13 @@ Check out some of them here:
 
 ---
 
-
-
 [COVID 19 Data Exploration SQL](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
 
 ![COVID 19 Data Exploration](/Images/covid.jpg)
 
 ---
 
-## TABLEAU 
+### TABLEAU 
 
 [TABLEAU PROJECTS](https://public.tableau.com/app/profile/adeoye.malumi)
 
@@ -57,7 +55,7 @@ Check out some of them here:
 
 ---
 
-## POWER BI 
+### POWER BI 
 
 [POWER BI PROJECTS](https://github.com/oye-bobs/PowerBI-Projects)
 
@@ -65,7 +63,7 @@ Check out some of them here:
 
 ---
 
-## MICROSOFT EXCEL 
+### MICROSOFT EXCEL 
 
 [EXCEL PROJECTS](https://github.com/oye-bobs/ExcelProjects)
 
@@ -76,43 +74,34 @@ Check out some of them here:
 
 ---
 
-## Additional Projects
+## Geoscience Projects
 
-**Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course**
+### Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course
 
 - [Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](notebooks/murtala_time_series_2.html)
 
-  
   Location Used : Murtala Mohammed Airport, Lagos, Nigeria
 
-
-
   <embed type="text/html" src="maps/mmia.html" width="600" height="600">
-
-
-
 
   
 - [Project 2: Accessing MODIS Spatial Data and Analyzing Fire In Gwagwalada, Abuja, Nigeria.](notebooks/gwagwalada.html)
 
-
-
   Location Used : Gwagwalada, Abuja, Nigeria.
-
-
 
   ![Gwagwalada NDVI](/Images/gwagwalada.png)
 
 
-
-  -[Project 3: A short module teaching University of Benin Students about Open Reproducible Science](https://github.com/UnibenEarthDataScience/UniBenOpenSciEd)
+-[Project 3: A short module teaching University of Benin Students about Open Reproducible Science](https://github.com/UnibenEarthDataScience/UniBenOpenSciEd)
 
   Make sure to go through the read me file. (;
 
-
-
   ![Uniben OpenScience](/Images/OpenScience.png)
   
+
+### Siesmology Skill Building Workshop Projects
+
+The projects listed below were completed during my participation in the Seismology Skill Building Workshop organized by EarthScope.
 
   - [Project 4: Exploring The 6.3 Magnitude L'Aquila Earthquake on April 6, 2009 in Central Italy](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/LAquila_Earthquake%20%281%29.ipynb)
     
