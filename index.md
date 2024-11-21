@@ -92,7 +92,7 @@ Check out some of them here:
   ![Gwagwalada NDVI](/Images/gwagwalada.png)
 
 
--[Project 3: A short module teaching University of Benin Students about Open Reproducible Science](https://github.com/UnibenEarthDataScience/UniBenOpenSciEd)
+- [Project 3: A short module teaching University of Benin Students about Open Reproducible Science](https://github.com/UnibenEarthDataScience/UniBenOpenSciEd)
 
   Make sure to go through the read me file. (;
 
