@@ -90,14 +90,14 @@ Check out some of them here:
   Location Used : Gwagwalada, Abuja, Nigeria.
 
   ![Gwagwalada NDVI](/Images/gwagwalada.png)
+  
 
+- [Project 3: A short module teaching University of Benin Students about Open Reproducible Science]([notebooks/murtala_time_series_2.html](https://github.com/UnibenEarthDataScience/UniBenOpenSciEd))
 
-- [Project 3: A short module teaching University of Benin Students about Open Reproducible Science](https://github.com/UnibenEarthDataScience/UniBenOpenSciEd)
-
-  Make sure to go through the read me file. (;
+  Make sure to go through the read me file. 🙂
 
   ![Uniben OpenScience](/Images/OpenScience.png)
-  
+
 
 ### Siesmology Skill Building Workshop Projects
 
