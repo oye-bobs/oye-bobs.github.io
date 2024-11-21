@@ -112,27 +112,30 @@ Check out some of them here:
 
 
   ![Uniben OpenScience](/Images/OpenScience.png)
+  
+
+  - [Project 4: Exploring The 6.3 Magnitude L'Aquila Earthquake on April 6, 2009 in Central Italy](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/LAquila_Earthquake%20%281%29.ipynb)
+    
+ 
+  - [Project 5: Exploring The 7.8 Magnitude Gorkha Earthquake on April 25, 2015 in Nepal](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/Nepal%20Earthquake.ipynb)
+    
+ 
+  - [Project 6: Spectrogram Analysis of Earthquake and Non-Earthquake Signals](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/Spectograms.ipynb)
+    
+
+  - [Project 5: Exploring The 7.0 Magnitude Haiti Earthquake on January 12, 2010](https://nbviewer.org/urls/www.iris.edu/hq/files/short_courses/2020/ssb/haiti_earthquake.ipynb)
+    
 
 ---
 
 ## Workshops and Short Courses
 Driven by my passion for self-improvement and personal growth, I have actively engaged in numerous self-directed courses, some of which include : 
 
-[ESIIL Data Short Course 2024 (Certificate)](https://drive.google.com/file/d/1zy4CSyRhq4x8nsI-mao5iHlQyDrY3bv5/view?usp=drive_link)
+- [ESIIL Data Short Course 2024 (Certificate)](https://drive.google.com/file/d/1zy4CSyRhq4x8nsI-mao5iHlQyDrY3bv5/view?usp=drive_link)
 
-![ESIIL Logo](/Images/ESIIL_logo.png)
-  
----
+- [Earthscope Seismology Skill Building Workshop 2024 (Certificate)](https://drive.google.com/file/d/1y1epoSUvPsZVPWegYT9kHHvn565vPw1-/view?usp=drive_link)
 
-[Earthscope Seismology Skill Building Workshop 2024 (Certificate)](https://drive.google.com/file/d/1y1epoSUvPsZVPWegYT9kHHvn565vPw1-/view?usp=drive_link)
-
-![Earthscope Logo](/Images/Earthscope_logo.jpeg)
-
-  
----
-[Earthquake Locate Certificate](https://drive.google.com/file/d/18HFY7pwP1dqGIdoktrULJ5dyVJdZq6f2/view?usp=drive_link)
-
-
+- [Earthquake Locate Certificate](https://drive.google.com/file/d/18HFY7pwP1dqGIdoktrULJ5dyVJdZq6f2/view?usp=drive_link)
   
 ---
 
@@ -146,9 +149,17 @@ _University of Benin - Benin City, Edo State_
 
 ##  Work Experience
 
+
+**Service Engineer**  
+_Inter trade Limited, Abuja, Nigeria_  
+_June 2024 – Present_
+
+Installation and maintenance of solar power infastructures
+
+
 **Graduate Intern**  
 _Inter trade Limited, Abuja, Nigeria_  
-_June 2023 – Present_
+_June 2023 – June 2024_
 
 Installation and maintenance of solar power infastructures
 
@@ -162,11 +173,9 @@ Gaining Hand-on experience in Machine learning and Artificial Intelligence
 
 ---
 
-##  Certifications/Licenses
+##  Selected Certifications/Licenses
 
 - Tensorflow Developers Certificate, May 2023
-- Accenture North America - Data Analysis and Visualisation Job Simulation(Forage), April 2024
-- GE Aerospace - Explore Human Resources Job Simulation(Forage), April 2024
 - Data Science Methodology (Coursera), Feb 2023
 - R Programming (Coursera), Nov 2022
 - DeepLearning.AI Tensorflow Developer Specialisation (Coursera), Oct 2022
@@ -191,7 +200,7 @@ Gaining Hand-on experience in Machine learning and Artificial Intelligence
 
 ---
 
-##  Strengths
+##  Soft skills
 
 - Public Speaking
 - Effective Communication
