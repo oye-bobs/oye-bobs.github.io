@@ -1,12 +1,3 @@
-<head>
-  <style>
-    img {
-      width: 100%;
-      max-width: 600px;  /* Keeps the image size no larger than 600px */
-      height: auto;      /* Adjusts the height to maintain the aspect ratio */
-    }
-  </style>
-</head>
 
 # Adeoye's Earth Data Science Journey.
 
@@ -45,46 +36,29 @@ Check out some of them here:
 
 ### SQL
 
-[Data Cleaning in SQL](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
+- [Data Cleaning in SQL](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/Housing%20Data%20Cleaning%20Project.sql)
 
-![Housing Data Cleaning Project](/Images/housingIMG.jpg)
-
----
-
-[COVID 19 Data Exploration SQL](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
-
-![COVID 19 Data Exploration](/Images/covid.jpg)
-
----
+- [COVID 19 Data Exploration SQL](https://github.com/oye-bobs/SQLPorfolioProjects/blob/main/covid%20portfolio%20project%201.sql)
 
 ### TABLEAU 
 
-[TABLEAU PROJECTS](https://public.tableau.com/app/profile/adeoye.malumi)
+- [TABLEAU PROJECTS](https://public.tableau.com/app/profile/adeoye.malumi)
 
-![Tableau Projects](/Images/tableau.jpg)
-
----
 
 ### POWER BI 
 
-[POWER BI PROJECTS](https://github.com/oye-bobs/PowerBI-Projects)
-
-![Power BI Projects](/Images/powerbi.jpg)
-
----
+- [POWER BI PROJECTS](https://github.com/oye-bobs/PowerBI-Projects)
+  
 
 ### MICROSOFT EXCEL 
 
-[EXCEL PROJECTS](https://github.com/oye-bobs/ExcelProjects)
-
-![Excel Projects](/Images/excel.jpg)
-
-
+- [EXCEL PROJECTS](https://github.com/oye-bobs/ExcelProjects)
 
 
 ---
 
 ## Geoscience Projects
+This is where my Earth Data Science Begins
 
 ### Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course
 
@@ -92,21 +66,22 @@ Check out some of them here:
 
   Location Used : Murtala Mohammed Airport, Lagos, Nigeria
 
-  <embed type="text/html" src="maps/mmia.html" width="600" height="600">
+  <embed type="text/html" src="maps/mmia.html" width="600" height="400">
 
   
 - [Project 2: Accessing MODIS Spatial Data and Analyzing Fire In Gwagwalada, Abuja, Nigeria.](notebooks/gwagwalada.html)
 
   Location Used : Gwagwalada, Abuja, Nigeria.
 
-  ![Gwagwalada NDVI](/Images/gwagwalada.png)
+  <embed type="text/html" src="Images/gwagwalada.png" width="600" height="400">
   
 
 - [Project 3: A short module teaching University of Benin Students about Open Reproducible Science]([notebooks/murtala_time_series_2.html](https://github.com/UnibenEarthDataScience/UniBenOpenSciEd))
 
   Make sure to go through the read me file. 🙂
 
-  ![Uniben OpenScience](/Images/OpenScience.png)
+  <embed type="text/html" src="Images/OpenScience.png" width="600" height="400">
+
 
 
 ### Siesmology Skill Building Workshop Projects
