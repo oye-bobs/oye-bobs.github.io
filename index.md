@@ -88,16 +88,16 @@ This is where my Earth Data Science Begins
 
 The projects listed below were completed during my participation in the Seismology Skill Building Workshop organized by EarthScope.
 
-  - [Project 4: Exploring The 6.3 Magnitude L'Aquila Earthquake on April 6, 2009 in Central Italy](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/LAquila_Earthquake%20%281%29.ipynb)
+  - [Project 1: Exploring The 6.3 Magnitude L'Aquila Earthquake on April 6, 2009 in Central Italy](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/LAquila_Earthquake%20%281%29.ipynb)
     
  
-  - [Project 5: Exploring The 7.8 Magnitude Gorkha Earthquake on April 25, 2015 in Nepal](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/Nepal%20Earthquake.ipynb)
+  - [Project 2: Exploring The 7.8 Magnitude Gorkha Earthquake on April 25, 2015 in Nepal](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/Nepal%20Earthquake.ipynb)
     
  
-  - [Project 6: Spectrogram Analysis of Earthquake and Non-Earthquake Signals](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/Spectograms.ipynb)
+  - [Project 2: Spectrogram Analysis of Earthquake and Non-Earthquake Signals](https://nbviewer.org/github/oye-bobs/oye-bobs.github.io/blob/main/notebooks/Spectograms.ipynb)
     
 
-  - [Project 5: Exploring The 7.0 Magnitude Haiti Earthquake on January 12, 2010](https://nbviewer.org/urls/www.iris.edu/hq/files/short_courses/2020/ssb/haiti_earthquake.ipynb)
+  - [Final Project: Exploring The 7.0 Magnitude Haiti Earthquake on January 12, 2010](https://nbviewer.org/urls/www.iris.edu/hq/files/short_courses/2020/ssb/haiti_earthquake.ipynb)
     
 
 ---
