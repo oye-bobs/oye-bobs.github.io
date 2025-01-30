@@ -110,6 +110,10 @@ Driven by my passion for self-improvement and personal growth, I have actively e
 - [Earthscope Seismology Skill Building Workshop 2024 (Certificate)](https://drive.google.com/file/d/1y1epoSUvPsZVPWegYT9kHHvn565vPw1-/view?usp=drive_link)
 
 - [Earthquake Locate Certificate](https://drive.google.com/file/d/18HFY7pwP1dqGIdoktrULJ5dyVJdZq6f2/view?usp=drive_link)
+
+### HNG DATA ANALYSIS INTERNSHIP 2025
+
+- [LVL 0 PROJECT](https://drive.google.com/file/d/1wyM-MI_hjoHTjPeTx-l4t--adi_jeUlh/view?usp=drive_link)
   
 ---
 
