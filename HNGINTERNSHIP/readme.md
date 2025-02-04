@@ -1,1 +1,1 @@
-This Folder contains detais about my HNG Internship Program.
+This Folder contains details about my HNG Internship Program.
