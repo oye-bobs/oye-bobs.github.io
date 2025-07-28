@@ -1,0 +1,228 @@
+/* General Styles */
+body {
+  font-family: 'Montserrat', Arial, sans-serif;
+  margin: 0;
+  background-color: #f7fafc;
+  color: #1a202c;
+  line-height: 1.6;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #1e40af;
+  text-decoration: underline;
+}
+
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+header.hero {
+  background: linear-gradient(120deg, #2563eb 60%, #3b82f6 100%);
+  color: #fff;
+  text-align: center;
+  padding: 3em 0 2em 0;
+  position: relative;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin-bottom: 1em;
+  box-shadow: 0 2px 12px rgba(0,0,0,.15);
+  object-fit: cover;
+}
+
+.hero h1 {
+  margin: 0.2em 0 0;
+  font-size: 2.3em;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.hero h2 {
+  font-weight: 400;
+  margin: 0.3em 0 0.8em 0;
+}
+.tagline {
+  font-style: italic;
+  margin-bottom: 1em;
+}
+
+/* Navigation Bar */
+nav#navbar {
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,.04);
+  position: sticky;
+  top: 0;
+  z-index: 9;
+}
+nav#navbar ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.2em;
+  list-style: none;
+  margin: 0;
+  padding: 0.7em 0;
+}
+nav#navbar li a {
+  font-weight: 500;
+  color: #334155;
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+nav#navbar li a:hover, nav#navbar li a:focus {
+  background: #e0e7ef;
+  color: #2563eb;
+}
+
+/* Section Styles */
+.section {
+  padding: 2.5em 0 2em 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+.section h2 {
+  font-size: 1.7em;
+  color: #2563eb;
+  margin-bottom: 0.7em;
+}
+.section.highlight {
+  background: #eff6ff;
+}
+
+.project-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  margin: 1.2em 0;
+}
+.project-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 1px 8px rgba(0,0,0,.08);
+  padding: 1.2em 1em;
+  flex: 1 1 220px;
+  min-width: 220px;
+  max-width: 320px;
+  text-align: left;
+}
+.project-card h3, .project-card h4 {
+  margin-top: 0;
+  color: #3b82f6;
+}
+.project-card img {
+  max-width: 100%;
+  margin-top: 0.7em;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,.04);
+}
+
+.exp {
+  margin-bottom: 1.3em;
+}
+.exp h3 {
+  margin-bottom: 0.1em;
+  color: #1e293b;
+  font-size: 1.15em;
+}
+.exp .date {
+  background: #dbeafe;
+  color: #2563eb;
+  font-size: 0.9em;
+  padding: 1px 9px;
+  border-radius: 12px;
+  margin-left: 0.5em;
+}
+
+.badge-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6em;
+  margin: 1em 0 0 0;
+}
+.badge {
+  background: #2563eb;
+  color: #fff;
+  border-radius: 18px;
+  padding: 0.5em 1.2em;
+  font-size: 0.98em;
+  margin: 0 0.2em 0.5em 0;
+  display: inline-block;
+  font-family: 'Fira Mono', monospace;
+  letter-spacing: 0.02em;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3em;
+}
+.skills div {
+  min-width: 180px;
+}
+.skills ul, .soft-skills {
+  margin: 0.2em 0 1em 1em;
+  padding: 0;
+}
+
+.soft-skills li {
+  display: inline-block;
+  margin: 0.2em 0.7em 0.2em 0;
+  background: #e0e7ef;
+  color: #334155;
+  padding: 0.4em 1em;
+  border-radius: 16px;
+  font-size: 0.97em;
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+.contact-list li {
+  margin: 0.3em 0;
+  font-size: 1.1em;
+}
+.contact-image {
+  margin-top: 2em;
+  text-align: left;
+}
+.contact-image iframe, .contact-image embed {
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,.04);
+}
+
+/* Footer */
+footer {
+  background: #2563eb;
+  color: #fff;
+  text-align: center;
+  padding: 1.2em 0;
+  margin-top: 2em;
+  font-size: 0.97em;
+  letter-spacing: 0.02em;
+}
+
+/* Responsive Design */
+@media (max-width: 900px) {
+  .container { max-width: 98%; }
+  .skills { flex-direction: column; gap: 1.3em; }
+  .project-grid { flex-direction: column; }
+}
+@media (max-width: 600px) {
+  nav#navbar ul { flex-direction: column; gap: 0.2em; }
+  header.hero { padding: 2em 0 1.5em 0; }
+  .avatar { width: 80px; height: 80px; }
+  .section { padding: 1.2em 0 1em 0; }
+  .project-card { max-width: 100%; }
+}
