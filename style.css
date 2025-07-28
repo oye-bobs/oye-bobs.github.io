@@ -11,11 +11,14 @@
   --secondary-color: #adb5bd; /* Lighter Gray for secondary text */
   --accent-color: #28a745; /* Green - remains vibrant */
   --background-light: #000000; /* Black for main background */
-  --background-dark: #1a1a1a; /* Very Dark Gray for sections like footer */
+  --background-dark: #1a1a1a; /* Very Dark Gray for sections like footer and most cards */
+  --background-card-hover: #2a2a2a; /* Slightly lighter dark for card hover */
   --text-dark: #e0e0e0; /* Light Gray for main text */
   --text-light: #f8f9fa; /* White/Off-white for text on dark backgrounds */
   --border-color: #495057; /* Darker border for subtle separation */
   --shadow-color: rgba(255, 255, 255, 0.05); /* Subtle light shadow for dark background */
+  --shadow-hover: rgba(0, 0, 0, 0.4); /* Darker shadow on hover for depth */
+
 
   /* Typography */
   --font-primary: 'Inter', sans-serif;
@@ -515,6 +518,13 @@ body.loaded #loading-screen {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   flex: 1;
   margin-left: var(--spacing-lg); /* To make space for icon */
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.timeline-content:hover {
+  background-color: var(--background-card-hover);
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px var(--shadow-hover);
 }
 
 .timeline-content h3 {
@@ -537,6 +547,12 @@ body.loaded #loading-screen {
   border-radius: var(--border-radius-lg);
   text-align: center;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.mission-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px var(--shadow-hover);
 }
 
 .mission-card .icon {
@@ -563,12 +579,13 @@ body.loaded #loading-screen {
   padding: var(--spacing-lg);
   display: flex;
   flex-direction: column;
-  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
 }
 
-.project-card:hover, .geo-project-card:hover, .achievement-card:hover, .cert-item:hover {
+.project-card:hover, .geo-project-card:hover, .cert-item:hover {
+  background-color: var(--background-card-hover);
   transform: translateY(-5px);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 10px 25px var(--shadow-hover);
 }
 
 .project-icon {
@@ -721,12 +738,13 @@ body.loaded #loading-screen {
   display: flex;
   align-items: center;
   gap: var(--spacing-md);
-  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
 }
 
 .seismo-item:hover {
+  background-color: var(--background-card-hover);
   transform: translateY(-3px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 5px 15px var(--shadow-hover);
 }
 
 .seismo-item.featured {
@@ -768,12 +786,24 @@ body.loaded #loading-screen {
   padding: var(--spacing-lg);
   display: flex;
   flex-direction: column;
-  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.achievement-card:hover {
+  background-color: var(--background-card-hover);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px var(--shadow-hover);
 }
 
 .achievement-card.major {
   background: linear-gradient(45deg, var(--primary-color), var(--accent-color));
   color: var(--text-light);
+}
+
+.achievement-card.major:hover {
+  /* For major cards, we want to keep the gradient but still show a lift */
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px var(--shadow-hover);
 }
 
 .achievement-card.major .achievement-icon,
@@ -825,6 +855,13 @@ body.loaded #loading-screen {
   align-items: center;
   gap: var(--spacing-xl);
   flex-wrap: wrap;
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.internship-card:hover {
+  background-color: var(--background-card-hover);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px var(--shadow-hover);
 }
 
 .internship-content {
@@ -866,6 +903,13 @@ body.loaded #loading-screen {
   align-items: flex-start;
   gap: var(--spacing-lg);
   flex-wrap: wrap;
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.education-card:hover {
+  background-color: var(--background-card-hover);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px var(--shadow-hover);
 }
 
 .education-icon {
@@ -953,6 +997,13 @@ body.loaded #loading-screen {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   flex: 1;
   margin-left: var(--spacing-lg);
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.experience-content:hover {
+  background-color: var(--background-card-hover);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px var(--shadow-hover);
 }
 
 .experience-header {
@@ -1004,11 +1055,23 @@ body.loaded #loading-screen {
   padding: var(--spacing-lg);
   display: flex;
   flex-direction: column;
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.cert-category:hover {
+  background-color: var(--background-card-hover);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px var(--shadow-hover);
 }
 
 .cert-category.featured {
   background: linear-gradient(45deg, var(--primary-color), var(--accent-color));
   color: var(--text-light);
+}
+
+.cert-category.featured:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px var(--shadow-hover);
 }
 
 .cert-category.featured .cert-category-title,
@@ -1039,6 +1102,13 @@ body.loaded #loading-screen {
   align-items: center;
   gap: var(--spacing-md);
   padding: var(--spacing-xs) 0;
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.cert-item:hover {
+  background-color: var(--background-card-hover);
+  transform: translateY(-3px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 .cert-item.featured-cert {
@@ -1047,6 +1117,10 @@ body.loaded #loading-screen {
   padding: var(--spacing-sm) var(--spacing-md);
   font-weight: 600;
   color: var(--text-light);
+}
+
+.cert-item.featured-cert:hover {
+  background-color: rgba(255, 255, 255, 0.15); /* Slightly more opaque on hover */
 }
 
 .cert-icon {
@@ -1081,6 +1155,13 @@ body.loaded #loading-screen {
   padding: var(--spacing-lg);
   display: flex;
   flex-direction: column;
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.skills-category:hover {
+  background-color: var(--background-card-hover);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px var(--shadow-hover);
 }
 
 .skills-category-title {
@@ -1103,6 +1184,15 @@ body.loaded #loading-screen {
   display: flex;
   align-items: center;
   gap: var(--spacing-md);
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+  padding: var(--spacing-xs); /* Add padding for better hover area */
+  border-radius: var(--border-radius-sm); /* Add border-radius for hover */
+}
+
+.skill-item:hover {
+  background-color: #2a2a2a; /* Slightly lighter for individual skill item hover */
+  transform: translateY(-3px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 .skill-icon {
@@ -1113,6 +1203,12 @@ body.loaded #loading-screen {
 
 .skill-content {
   flex-grow: 1;
+}
+
+.skill-content h4 {
+  font-size: 1.1rem;
+  margin-bottom: var(--spacing-xs);
+  color: var(--text-dark);
 }
 
 .skill-bar {
@@ -1165,6 +1261,8 @@ body.loaded #loading-screen {
   background-color: var(--primary-color);
   color: var(--text-light);
   border-color: var(--primary-color);
+  transform: translateY(-3px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 /* Contact Section */
@@ -1209,12 +1307,13 @@ body.loaded #loading-screen {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   padding: var(--spacing-md);
   color: var(--text-dark);
-  transition: all var(--transition-fast);
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
 }
 
 .contact-method:hover {
+  background-color: var(--background-card-hover);
   transform: translateX(5px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 5px 15px var(--shadow-hover);
 }
 
 .contact-icon {
@@ -1477,7 +1576,7 @@ body.loaded #loading-screen {
     position: absolute;
     top: 100%;
     left: 0;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 5m rgba(0, 0, 0, 0.3);
     padding: var(--spacing-sm) 0;
   }
   .nav-menu.open {
