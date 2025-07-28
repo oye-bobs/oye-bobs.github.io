@@ -6,16 +6,16 @@
 }
 
 :root {
-  /* Colors */
-  --primary-color: #007bff; /* Blue */
-  --secondary-color: #6c757d; /* Gray */
-  --accent-color: #28a745; /* Green */
-  --background-light: #f8f9fa; /* Light Gray */
-  --background-dark: #343a40; /* Dark Gray */
-  --text-dark: #212529; /* Dark Text */
-  --text-light: #f8f9fa; /* Light Text */
-  --border-color: #dee2e6; /* Light Border */
-  --shadow-color: rgba(0, 0, 0, 0.1);
+  /* Colors - Adjusted for Dark Theme */
+  --primary-color: #007bff; /* Blue - remains vibrant */
+  --secondary-color: #adb5bd; /* Lighter Gray for secondary text */
+  --accent-color: #28a745; /* Green - remains vibrant */
+  --background-light: #000000; /* Black for main background */
+  --background-dark: #1a1a1a; /* Very Dark Gray for sections like footer */
+  --text-dark: #e0e0e0; /* Light Gray for main text */
+  --text-light: #f8f9fa; /* White/Off-white for text on dark backgrounds */
+  --border-color: #495057; /* Darker border for subtle separation */
+  --shadow-color: rgba(255, 255, 255, 0.05); /* Subtle light shadow for dark background */
 
   /* Typography */
   --font-primary: 'Inter', sans-serif;
@@ -109,7 +109,8 @@ body.loaded #loading-screen {
 
 /* Header / Hero Section */
 .hero-section {
-  background: linear-gradient(135deg, var(--primary-color), #6a00ff); /* Darker gradient */
+  /* Adjusted gradient for dark theme */
+  background: linear-gradient(135deg, #000000, #330066); 
   color: var(--text-light);
   padding: var(--spacing-2xl) 0;
   text-align: center;
@@ -281,8 +282,8 @@ body.loaded #loading-screen {
 
 /* Sticky Navigation Bar */
 .navbar {
-  background-color: var(--background-light);
-  box-shadow: 0 2px 10px var(--shadow-color);
+  background-color: var(--background-dark); /* Darker background for navbar */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Darker shadow */
   padding: var(--spacing-sm) 0;
   position: sticky;
   top: 0;
@@ -291,7 +292,7 @@ body.loaded #loading-screen {
 }
 
 .navbar.scrolled {
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(26, 26, 26, 0.95); /* Slightly transparent dark */
   backdrop-filter: blur(5px);
 }
 
@@ -320,7 +321,7 @@ body.loaded #loading-screen {
 }
 
 .nav-menu a {
-  color: var(--text-dark);
+  color: var(--text-dark); /* Light text on dark navbar */
   font-weight: 500;
   padding: 0.5rem 0.75rem;
   border-radius: var(--border-radius-sm);
@@ -347,7 +348,7 @@ body.loaded #loading-screen {
 .nav-toggle span {
   width: 100%;
   height: 3px;
-  background-color: var(--text-dark);
+  background-color: var(--text-dark); /* Light lines for toggle */
   transition: all var(--transition-fast);
   border-radius: 2px;
 }
@@ -366,12 +367,11 @@ body.loaded #loading-screen {
 /* Main Content Sections */
 .section {
   padding: var(--spacing-2xl) 0;
-  background-color: var(--background-light);
+  background-color: var(--background-light); /* Main black background */
 }
 
 .highlight-section {
-  background-color: var(--background-light); /* Keeping it light for now */
-  /* Could be a subtle pattern or different shade if desired */
+  background-color: var(--background-dark); /* Darker shade for highlight sections */
 }
 
 .section-header {
@@ -454,7 +454,7 @@ body.loaded #loading-screen {
   max-width: 100%;
   height: auto;
   border-radius: var(--border-radius-lg);
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* Darker shadow for image */
 }
 
 /* Journey Section */
@@ -503,16 +503,16 @@ body.loaded #loading-screen {
   justify-content: center;
   flex-shrink: 0;
   z-index: 1;
-  box-shadow: 0 2px 5px var(--shadow-color);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   position: absolute;
   left: -22.5px; /* Half of width to center on line */
 }
 
 .timeline-content {
-  background-color: var(--background-light);
+  background-color: var(--background-dark); /* Darker background for content cards */
   padding: var(--spacing-md);
   border-radius: var(--border-radius-md);
-  box-shadow: 0 2px 5px var(--shadow-color);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   flex: 1;
   margin-left: var(--spacing-lg); /* To make space for icon */
 }
@@ -536,7 +536,7 @@ body.loaded #loading-screen {
   padding: var(--spacing-lg);
   border-radius: var(--border-radius-lg);
   text-align: center;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
 }
 
 .mission-card .icon {
@@ -557,9 +557,9 @@ body.loaded #loading-screen {
 }
 
 .project-card, .geo-project-card, .achievement-card, .cert-item {
-  background-color: var(--text-light); /* White background for cards */
+  background-color: var(--background-dark); /* Dark background for cards */
   border-radius: var(--border-radius-lg);
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   padding: var(--spacing-lg);
   display: flex;
   flex-direction: column;
@@ -568,7 +568,7 @@ body.loaded #loading-screen {
 
 .project-card:hover, .geo-project-card:hover, .achievement-card:hover, .cert-item:hover {
   transform: translateY(-5px);
-  box-shadow: 0 10px 25px var(--shadow-color);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
 }
 
 .project-icon {
@@ -580,7 +580,7 @@ body.loaded #loading-screen {
 .project-card h3, .geo-project-card h4 {
   font-size: 1.3rem;
   margin-bottom: var(--spacing-xs);
-  color: var(--text-dark);
+  color: var(--text-dark); /* Light text on dark card */
 }
 
 .project-card p, .geo-project-card p {
@@ -601,7 +601,7 @@ body.loaded #loading-screen {
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
-  background-color: var(--background-light);
+  background-color: #2a2a2a; /* Slightly lighter dark for links */
   color: var(--primary-color);
   padding: 0.4em 0.8em;
   border-radius: var(--border-radius-md);
@@ -658,7 +658,7 @@ body.loaded #loading-screen {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(var(--primary-color), 0.8);
+  background-color: rgba(0, 123, 255, 0.8); /* Primary color with transparency */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -714,9 +714,9 @@ body.loaded #loading-screen {
 }
 
 .seismo-item {
-  background-color: var(--text-light);
+  background-color: var(--background-dark); /* Dark background */
   border-radius: var(--border-radius-md);
-  box-shadow: 0 2px 8px var(--shadow-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   padding: var(--spacing-md);
   display: flex;
   align-items: center;
@@ -726,7 +726,7 @@ body.loaded #loading-screen {
 
 .seismo-item:hover {
   transform: translateY(-3px);
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
 }
 
 .seismo-item.featured {
@@ -762,9 +762,9 @@ body.loaded #loading-screen {
 
 /* Workshops & Certifications */
 .achievement-card {
-  background-color: var(--text-light);
+  background-color: var(--background-dark); /* Dark background */
   border-radius: var(--border-radius-lg);
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   padding: var(--spacing-lg);
   display: flex;
   flex-direction: column;
@@ -817,9 +817,9 @@ body.loaded #loading-screen {
 }
 
 .internship-card {
-  background-color: var(--text-light);
+  background-color: var(--background-dark); /* Dark background */
   border-radius: var(--border-radius-lg);
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   padding: var(--spacing-lg);
   display: flex;
   align-items: center;
@@ -858,9 +858,9 @@ body.loaded #loading-screen {
 
 /* Education Section */
 .education-card {
-  background-color: var(--text-light);
+  background-color: var(--background-dark); /* Dark background */
   border-radius: var(--border-radius-lg);
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   padding: var(--spacing-lg);
   display: flex;
   align-items: flex-start;
@@ -941,16 +941,16 @@ body.loaded #loading-screen {
   justify-content: center;
   flex-shrink: 0;
   z-index: 1;
-  box-shadow: 0 2px 5px var(--shadow-color);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   position: absolute;
   left: -22.5px;
 }
 
 .experience-content {
-  background-color: var(--text-light);
+  background-color: var(--background-dark); /* Dark background */
   padding: var(--spacing-md);
   border-radius: var(--border-radius-md);
-  box-shadow: 0 2px 8px var(--shadow-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   flex: 1;
   margin-left: var(--spacing-lg);
 }
@@ -998,9 +998,9 @@ body.loaded #loading-screen {
 }
 
 .cert-category {
-  background-color: var(--text-light);
+  background-color: var(--background-dark); /* Dark background */
   border-radius: var(--border-radius-lg);
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   padding: var(--spacing-lg);
   display: flex;
   flex-direction: column;
@@ -1075,9 +1075,9 @@ body.loaded #loading-screen {
 }
 
 .skills-category {
-  background-color: var(--text-light);
+  background-color: var(--background-dark); /* Dark background */
   border-radius: var(--border-radius-lg);
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   padding: var(--spacing-lg);
   display: flex;
   flex-direction: column;
@@ -1118,7 +1118,7 @@ body.loaded #loading-screen {
 .skill-bar {
   width: 100%;
   height: 10px;
-  background-color: var(--background-light);
+  background-color: #333; /* Slightly lighter dark for bar track */
   border-radius: 5px;
   overflow: hidden;
   margin-bottom: var(--spacing-xs);
@@ -1148,7 +1148,7 @@ body.loaded #loading-screen {
 }
 
 .soft-skill-item {
-  background-color: var(--background-light);
+  background-color: #2a2a2a; /* Slightly lighter dark for soft skills */
   color: var(--primary-color);
   padding: 0.5em 1em;
   border-radius: var(--border-radius-md);
@@ -1204,9 +1204,9 @@ body.loaded #loading-screen {
   display: flex;
   align-items: center;
   gap: var(--spacing-md);
-  background-color: var(--text-light);
+  background-color: var(--background-dark); /* Dark background */
   border-radius: var(--border-radius-md);
-  box-shadow: 0 2px 8px var(--shadow-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   padding: var(--spacing-md);
   color: var(--text-dark);
   transition: all var(--transition-fast);
@@ -1214,7 +1214,7 @@ body.loaded #loading-screen {
 
 .contact-method:hover {
   transform: translateX(5px);
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
 }
 
 .contact-icon {
@@ -1246,7 +1246,7 @@ body.loaded #loading-screen {
   max-width: 500px; /* Adjust as needed */
   border-radius: var(--border-radius-lg);
   overflow: hidden;
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
 .contact-cta {
@@ -1273,7 +1273,7 @@ body.loaded #loading-screen {
 
 /* Footer */
 .footer {
-  background-color: var(--background-dark);
+  background-color: var(--background-dark); /* Dark background for footer */
   color: var(--text-light);
   padding: var(--spacing-xl) 0;
   text-align: center;
@@ -1382,7 +1382,7 @@ body.loaded #loading-screen {
   width: 50px;
   height: 50px;
   font-size: 1.5rem;
-  box-shadow: 0 5px 15px var(--shadow-color);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1473,11 +1473,11 @@ body.loaded #loading-screen {
     display: none; /* Hide nav menu by default on mobile */
     flex-direction: column;
     width: 100%;
-    background-color: var(--background-light);
+    background-color: var(--background-dark); /* Dark background for mobile nav */
     position: absolute;
     top: 100%;
     left: 0;
-    box-shadow: 0 5px 10px var(--shadow-color);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
     padding: var(--spacing-sm) 0;
   }
   .nav-menu.open {
